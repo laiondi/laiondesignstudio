@@ -935,31 +935,28 @@ window.PORTFOLIO_PROJECTS = [
         cover: "images/logo.jpg", // Tu segunda imagen
         year: "2026",
 
-        description: "An innovative workflow combining precise 3D blockout modeling with generative AI rendering. By using a SketchUp base for camera composition and furniture placement, the AI acts as a smart rendering engine, generating realistic lighting, textures, and atmospheres based on text prompts while respecting the original 3D geometry.\n\n• Workflow: SketchUp (Geometry & Composition) + AI Render Engine (Texturing & Lighting)\n• Concept: Geometry-Guided AI Rendering\n• Project Type: Residential Interior Concept",
+        description: "A curated collection of my recent logo designs and visual identities.",
 
         tags: [
-            "3D Modeling",
-            "AI Rendering",
-            "SketchUp",
-            "Interior Visualization",
-            "Prompt Engineering",
-            "ArchViz"
+            "Graphic design",
+            "Logotype"
+            
         ],
 
         gallery: [
-            { image: "images/1l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/2l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/3l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/4l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/5l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },            
-            { image: "images/6l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/7l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/8l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/9l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/10l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/11l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/12l.jpg", caption: "Original SketchUp 3D Blockout & Composition" },
-            { image: "images/13l.jpg", caption: "Original SketchUp 3D Blockout & Composition" }
+            { image: "images/1l.jpg", caption: "Logo" },
+            { image: "images/2l.jpg", caption: "Logo" },
+            { image: "images/3l.jpg", caption: "Logo" },
+            { image: "images/4l.jpg", caption: "Logo" },
+            { image: "images/5l.jpg", caption: "Logo" },            
+            { image: "images/6l.jpg", caption: "Logo" },
+            { image: "images/7l.jpg", caption: "Logo" },
+            { image: "images/8l.jpg", caption: "Logo" },
+            { image: "images/9l.jpg", caption: "Logo" },
+            { image: "images/10l.jpg", caption: "Logo" },
+            { image: "images/11l.jpg", caption: "Logo" },
+            { image: "images/12l.jpg", caption: "Logo" },
+            { image: "images/13l.jpg", caption: "Logo" }
             
             
             
