@@ -507,9 +507,9 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!home) return;
 
     const homeImages = {
-        day: "images/home-day.png",
-        afternoon: "images/home-afternoon.png",
-        night: "images/home-night.png"
+        day: "images/home-day.gif",
+        afternoon: "images/home-day.gif",
+        night: "images/home-day.gif"
     };
 
     // Precarga los tres fondos para evitar flashes al cambiar de franja horaria.
