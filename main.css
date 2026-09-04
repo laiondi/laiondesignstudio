@@ -456,7 +456,7 @@ html{
 .home{
     display: flex;
     /* Fallback visible incluso antes de que JavaScript calcule la hora */
-    background-image: url(images/home-day.png);
+    background-image: url(images/home-day.gif);
     background-repeat: no-repeat;
     background-position: center center;
     height: 100vh;
@@ -468,15 +468,15 @@ html{
 
 /* JavaScript cambia solamente esta variable según la hora local. */
 .home[data-period="day"] {
-    background-image: url(images/home-day.png);
+    background-image: url(images/home-day.gif);
 }
 
 .home[data-period="afternoon"] {
-    background-image: url(images/home-afternoon.png);
+    background-image: url(images/home-day.gif);
 }
 
 .home[data-period="night"] {
-    background-image: url(images/home-night.png);
+    background-image: url(images/home-day.gif);
 }
 
 @supports (height: 100svh) {
